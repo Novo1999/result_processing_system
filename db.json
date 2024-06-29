@@ -1,0 +1,74 @@
+{
+  "students": [
+    {
+      "studentId": "12345",
+      "department": "Computer Science",
+      "session": "2021",
+      "semester": "1",
+      "results": {
+        "assignment": 85,
+        "classTest": 90,
+        "midterm": 88,
+        "finalExam": 92,
+        "gpa": 3.75,
+        "cgpa": 3.8
+      }
+    },
+    {
+      "studentId": "67890",
+      "department": "Mechanical Engineering",
+      "session": "2021",
+      "semester": "1",
+      "results": {
+        "assignment": 80,
+        "classTest": 85,
+        "midterm": 87,
+        "finalExam": 90,
+        "gpa": 3.65,
+        "cgpa": 3.7
+      }
+    },
+    {
+      "studentId": "11223",
+      "department": "Electrical Engineering",
+      "session": "2021",
+      "semester": "1",
+      "results": {
+        "assignment": 78,
+        "classTest": 82,
+        "midterm": 85,
+        "finalExam": 88,
+        "gpa": 3.5,
+        "cgpa": 3.6
+      }
+    },
+    {
+      "studentId": "44556",
+      "department": "Civil Engineering",
+      "session": "2021",
+      "semester": "1",
+      "results": {
+        "assignment": 75,
+        "classTest": 80,
+        "midterm": 83,
+        "finalExam": 86,
+        "gpa": 3.4,
+        "cgpa": 3.5
+      }
+    },
+    {
+      "studentId": "78901",
+      "department": "Architecture",
+      "session": "2021",
+      "semester": "1",
+      "results": {
+        "assignment": 88,
+        "classTest": 92,
+        "midterm": 90,
+        "finalExam": 94,
+        "gpa": 3.85,
+        "cgpa": 3.9
+      }
+    }
+  ]
+}
